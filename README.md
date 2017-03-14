@@ -13,3 +13,4 @@ Will update this later. Long story short, do this:
 6. Call function on `IconsHelper` object to move the player to a structure.
 7. Look at the structure and take a screenshot.
 8. Repeat Steps 5-7 until done.
+9. Open screenshots in `Photoshop`, magic wand, profit.
