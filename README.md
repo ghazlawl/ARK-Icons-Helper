@@ -5,7 +5,7 @@ A blueprint library used to create icons for structures.
 
 Will update this later. Long story short, do this:
 
-1. Pre-place structures in the viewport. (Place near the wall for best results.)
+1. Pre-place structures in the viewport. (Place near a wall for best results.)
 2. Create `IconsHelper` object on `Event Begin Play` in the level blueprint.
 3. Add delay.
 4. Call function on `IconsHelper` object to set the floor material to green (or black).
