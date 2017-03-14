@@ -5,8 +5,10 @@ A blueprint library used to create icons for structures.
 
 Will update this later. Long story short, do this:
 
-* Create IconsHelper object.
-* Add delay.
-* Call functions on IconsHelper object to move the player to a structure.
-* Add delay.
-* Repeat until done.
+1. Create IconsHelper object.
+2. Add delay.
+3. Set the floor material to green (or black), should be pre-selected.
+4. Add delay.
+5. Call function on IconsHelper object to move the player to a structure.
+6. Look at the structure and take a screenshot.
+7. Repeat Steps 4-6 until done.
